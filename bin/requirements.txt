@@ -22,5 +22,5 @@ types-html5lib==1.1.11.20240106
 types-requests==2.31.0.0
 types-urllib3==1.26.25.14
 typing_extensions==4.9.0
-urllib3==2.1.0
+urllib3==2.2.2
 Werkzeug==3.0.1
